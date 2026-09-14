@@ -1,16 +1,26 @@
-## Hi there 👋
+# Linfeng [Your Last Name]
 
-<!--
-**LinfengCheng111/LinfengCheng111** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+M.S. in Artificial Intelligence  
+University of Maryland, College Park
 
-Here are some ideas to get you started:
+## Research Interests
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Robot Learning
+- Reinforcement Learning
+- Imitation Learning
+- Robotics Simulation
+- Teleoperation
+
+## Research
+
+## Skills
+
+- Python
+- PyTorch
+- Isaac Sim
+- Reinforcement Learning
+- Robot Learning
+
+## Contact
+
+Email: lcheng13@umd.edu
